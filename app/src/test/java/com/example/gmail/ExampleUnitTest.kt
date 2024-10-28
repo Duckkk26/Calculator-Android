@@ -1,4 +1,4 @@
-package com.example.calulator
+package com.example.gmail
 
 import org.junit.Test
 
