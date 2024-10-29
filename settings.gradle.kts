@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Calulator"
+rootProject.name = "ClassAssignment1"
 include(":app")
+ 
